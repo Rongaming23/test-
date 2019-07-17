@@ -1,1 +1,1 @@
-worker: python verbot.py
+worker: python Verboten.py
